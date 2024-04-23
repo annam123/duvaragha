@@ -1,0 +1,128 @@
+body,
+div {
+  font-family: "Heebo", sans-serif !important;
+}
+.css-11b3ww9-MuiPaper-root-MuiAppBar-root {
+  background-color: #242832 !important;
+}
+.logo {
+  float: left;
+}
+.css-1kkpk3h-MuiButtonBase-root-MuiButton-root {
+  font-weight: 700 !important;
+  font-size: 16px !important;
+  font-family: "Heebo", sans-serif !important;
+  line-height: 25px !important;
+  padding: 20px 20px !important;
+  text-transform: capitalize !important;
+}
+.css-1bchtrp-MuiButtonBase-root-MuiButton-root,
+.css-kjirbw-MuiButtonBase-root-MuiButton-root {
+  text-transform: capitalize !important;
+}
+.css-1suzw57 {
+  bottom: 18% !important;
+}
+.css-1bchtrp-MuiButtonBase-root-MuiButton-root,
+.css-kjirbw-MuiButtonBase-root-MuiButton-root {
+  padding: 3px 16px !important;
+  font-size: 12px !important;
+}
+/* Media query for screens wider than 600px (adjust as needed) */
+@media (max-width: 600px) {
+  .css-1kbvbep-MuiTypography-root,
+  .css-1r3ci3-MuiTypography-root,
+  .css-8je8zh-MuiTouchRipple-root {
+    padding-left: 30px !important;
+  }
+  .css-76mjnh-MuiButtonBase-root-MuiButton-root {
+    margin-left: 30px !important;
+  }
+  .title,
+  .tabname {
+    font-size: 11px !important;
+    min-width: 50px !important;
+  }
+  .button {
+    margin-top: 10px !important;
+  }
+  .extraSpace {
+    padding-left: 45px !important;
+  }
+  .parent {
+    margin-left: 0px !important;
+  }
+  .child {
+    padding-left: 0px !important;
+  }
+  .works {
+    padding: 0px !important;
+  }
+  .mobileView {
+    font-size: 30px !important;
+  }
+  .space {
+    padding-top: 20px;
+  }
+  .spaceBtm {
+    padding-top: 20px;
+    padding-bottom: 50px;
+  }
+  .worksFontSize {
+    font-size: 30px !important;
+  }
+  .fontSize {
+    font-size: 15px !important;
+    text-align: left;
+  }
+  .paddingTop {
+    padding-top: 20px;
+  }
+  .overlay_class {
+    display: none !important;
+  }
+}
+.css-i4bv87-MuiSvgIcon-root {
+  z-index: 99 !important;
+}
+.css-1knaqv7-MuiButtonBase-root-MuiButton-root {
+  background-color: none !important;
+}
+.css-19kzrtu {
+  padding: 0px !important;
+}
+.topBorder {
+  padding: 36px 32px 54px 16px;
+  border-style: solid;
+  border-width: 3px 0px 0px 0px;
+  border-color: #de8b02;
+  display: flex;
+  justify-content: space-between;
+}
+.marginBorder {
+  padding: 10px;
+}
+.hoverEffect:hover {
+  background-color: #de8b02; /* Adjust the color and opacity as needed */
+  animation: reverse;
+}
+.mobileView {
+  color: #ce7d03;
+  font-weight: bold;
+}
+.sliderTop {
+  margin-top: -10px;
+}
+.buttonname {
+  padding: 4px 18px !important;
+  font-size: 12px !important;
+  text-transform: initial !important;
+}
+.Mui-selected {
+  background-color: #de8b02;
+  color: #de8b02 !important;
+}
+.MuiTabs-indicator {
+  background-color: #de8b02 !important;
+  font-weight: bold !important;
+}
